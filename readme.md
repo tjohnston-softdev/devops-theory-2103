@@ -23,9 +23,3 @@ Given how hands-on the assessment was, I am not able to share anything from the 
 This repository is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). In other words, you can do what you want with it as long as attribution is given and any derived works are shared under the same license. This only applies to my individual submission. I do not claim any copyright over the original questions nor the assessment as a whole. The assessment belongs to the company that I applied for the position with.
 
 Any material used in my answers has been referenced accordingly both in-line and at the end of the document. This material is the legal property of its respective owners. I have decided not to disclose the name of the company for privacy reasons.
-
-
-
-
-
----
